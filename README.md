@@ -1,2 +1,2 @@
-# Google-Maps-Reviews-Scraper
+# Web-Scraper
 Python Selenium script to scrape Google Maps reviews and export them to Excel
